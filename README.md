@@ -33,3 +33,4 @@ Technical Environment
 Why GitHub?
 
 This information is provided as Open Source Truth. Traditional chess bureaucracy and administrative resources cannot block the laws of geometry. Once the "code" of the position is shared, the advantage of secrecy is neutralized.
+![Evidence](HF4rjCQWgAAW7Rt.png)
