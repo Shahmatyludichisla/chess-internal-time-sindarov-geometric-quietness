@@ -1,0 +1,11 @@
+To recalculate chess logic, we must discard the concept of "empty squares" and adopt the Unit Field Axiom.
+
+    Definition: Every single square on the 64-field grid is assigned an absolute value of 1.
+
+    The Grid as a Solid: The board is not a void; it is a continuous matrix with a total capacity of 64 units.
+
+    The Mechanism: A move is not just a change of coordinates—it is a redistribution of density. When a piece occupies or controls a square, it interacts with that square's Unit Value, creating fractional deviations (irrational numbers) from the ideal equilibrium of 0.5.
+
+    The Goal: Every calculation of the "Unified Formula" aims to resolve these fractional errors back to a whole integer or a balanced state.
+
+Conclusion: If you treat squares as zeros, you are calculating a vacuum. If you treat each square as 1, you are calculating Reality.
